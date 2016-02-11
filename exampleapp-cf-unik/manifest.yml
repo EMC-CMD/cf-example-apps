@@ -1,0 +1,5 @@
+---
+applications:
+- name: exampleapp
+  env:
+    USE_UNIK: default

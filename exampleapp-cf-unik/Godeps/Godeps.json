@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/emc-cmd/ecs-service-broker/exampleapp",
+	"GoVersion": "go1.5.2",
+	"Deps": []
+}
