@@ -1,5 +1,7 @@
 ---
 applications:
-- name: exampleapp
+- name: exampleapp4
   env:
-    USE_UNIK: default
+    UNIK_IP: 52.90.77.152:3000
+    UNIKERNEL_NAME: exampleapp4
+    
