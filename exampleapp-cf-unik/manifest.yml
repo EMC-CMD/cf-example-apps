@@ -1,7 +1,7 @@
 ---
 applications:
-- name: exampleapp4
+- name: exampleapp2
   env:
     UNIK_IP: 52.90.77.152:3000
-    UNIKERNEL_NAME: exampleapp4
-    
+    UNIKERNEL_NAME: exampleapp2
+    UNIK_VOLUME_DATA: '[{"Size":1,"Device":"/dev/xvdf"},{"Size":1,"Device":"/dev/xvdg"}]'
