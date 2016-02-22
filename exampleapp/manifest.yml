@@ -1,5 +1,3 @@
 ---
 applications:
 - name: exampleapp
-  env:
-    DIEGO_BRAIN_TAG: default
