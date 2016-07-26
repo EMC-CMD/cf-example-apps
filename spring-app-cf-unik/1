@@ -1,0 +1,44 @@
+
+[1;38mREQUEST:[0m [2016-07-26T17:45:59-04:00]
+GET /v2/info HTTP/1.1
+Host: 54.193.86.84
+Accept: application/json
+Content-Type: application/json
+User-Agent: go-cli 6.12.4-b4b6af1 / darwin
+
+
+
+[1;38mRESPONSE:[0m [2016-07-26T17:45:59-04:00]
+HTTP/1.1 404 Not Found
+Content-Length: 64
+Content-Type: text/plain; charset=utf-8
+Date: Tue, 26 Jul 2016 21:45:59 GMT
+X-Cf-Routererror: unknown_route
+X-Content-Type-Options: nosniff
+X-Vcap-Request-Id: 5c438c68-cbf6-4d94-595c-de75edb65d6b
+
+404 Not Found: Requested route ('54.193.86.84') does not exist.
+
+
+[1;38mREQUEST:[0m [2016-07-26T17:45:59-04:00]
+GET /v2/info HTTP/1.1
+Host: 54.193.86.84
+Accept: application/json
+Content-Type: application/json
+User-Agent: go-cli 6.12.4-b4b6af1 / darwin
+
+
+
+[1;38mRESPONSE:[0m [2016-07-26T17:45:59-04:00]
+HTTP/1.1 404 Not Found
+Content-Length: 64
+Content-Type: text/plain; charset=utf-8
+Date: Tue, 26 Jul 2016 21:45:59 GMT
+X-Cf-Routererror: unknown_route
+X-Content-Type-Options: nosniff
+X-Vcap-Request-Id: 606c670c-023a-4785-4360-7c3338c0ba7a
+
+404 Not Found: Requested route ('54.193.86.84') does not exist.
+
+FAILED
+Server error, status code: 404, error code: 0, message: 
