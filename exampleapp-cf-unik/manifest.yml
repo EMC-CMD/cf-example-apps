@@ -1,6 +1,6 @@
 ---
 applications:
-- name: exampleapp
+- name: sweiss-exampleapp
   env:
     URL: 54.165.229.63:3000
     PROVIDER: aws
