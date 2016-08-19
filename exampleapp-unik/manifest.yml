@@ -1,5 +1,0 @@
----
-applications:
-- name: hadoop_node_manager
-  env:
-    DIEGO_BRAIN_TAG: hadoop
