@@ -1,0 +1,19 @@
+providers:
+  aws:
+    - name: aws-1
+      region: us-west-1
+      zone: us-west-1b
+  vsphere:
+    - name: vsphere-1
+      vsphere_user: user
+      vsphere_password: password
+      vsphere_url: url
+      datastore: datastore1
+      datacenter: ha-datacenter
+      network: VM Network
+  virtualbox:
+    - name: my-vbox
+      adapter_name: "en0: Wi-Fi (AirPort)"
+      adapter_type: bridged
+      version: 0.0.0
+version: 0.0.0

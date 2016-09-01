@@ -1,0 +1,6 @@
+---
+applications:
+- name: software-circus-ilackarms 
+  env:
+    URL: demo.project-unik.io:3000
+    PROVIDER: aws 
